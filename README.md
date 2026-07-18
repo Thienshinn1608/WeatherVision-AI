@@ -212,8 +212,6 @@ WeatherVision-AI/
         └── quality.yml                 # GitHub Actions
 ```
 
-> Nếu model của bạn đang nằm trong `models/weather_model.pth` thay vì thư mục gốc, hãy giữ nguyên vị trí đó và chỉnh dòng cấu trúc phía trên cho đúng với repo thực tế.
-
 ## 👨‍💻 Nội dung thực hiện
 
 - Fine-tune EfficientNetV2-S để phân loại 11 hiện tượng thời tiết
@@ -236,5 +234,3 @@ WeatherVision-AI/
 - Kết quả chỉ phục vụ mục đích học tập, nghiên cứu và tham khảo
 
 ---
-
-**Người thực hiện: Ngô Long Thiên — MSSV 2001230920**
